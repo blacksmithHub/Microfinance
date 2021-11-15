@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Microfinance</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="google_maps_api_key">AIzaSyA5NrXkAvzSu6WmJplE7pb5dyAesKBhuXo</string>
+    <string name="sign_in" />
+    <string name="create_an_account" />
+    <string name="sign_up" />
+    <string name="email" />
+    <string name="confirm_password" />
+    <string name="firstname" />
+    <string name="lastname" />
+    <string name="username" />
+    <string name="password" />
+    <string name="dashboard" />
+    <string name="amount" />
+    <string name="rate" />
+    <string name="create" />
+
+    <string-array name="gender_arrays">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+
+</resources>
